@@ -1,0 +1,16 @@
+body {
+	font-family: Arial;
+}
+
+.header {
+	text-align: center;
+}
+
+.container {
+	border-style: solid;
+	border-color:  black;
+}
+
+#p1 {
+	color: darkgreen;
+}
